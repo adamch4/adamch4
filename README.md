@@ -1,7 +1,7 @@
 ## Hi! My name is Ádám Kurtyák
-## Senior BI Developer
+Senior BI Developer
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adamkurtyak)
+📫 [LinkedIn](https://www.linkedin.com/in/adamkurtyak)
 <!--
 **adamch4/adamch4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
